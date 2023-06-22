@@ -79,3 +79,11 @@ header {
     gap: 20px;
     cursor: pointer;
 }
+
+.icons:hover {
+    opacity: 0.2;
+}
+
+.liked {
+    background-color: red;
+}
